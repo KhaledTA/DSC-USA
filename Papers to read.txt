@@ -1,0 +1,21 @@
+Papers to read:
+
+
+1- Buy Or Build? A Practitioner’s Framework for Large Language Model Integration in Enterprise Systems
+
+https://ijahss.net/journal/646
+
+https://ijahss.net/assets/files/1783086392.pdf
+
+
+2- Is AI Really Intelligent? Practical Insights from Real-World Use of Generative AI
+
+https://ijahss.net/journal/642
+
+https://ijahss.net/assets/files/1783086908.pdf
+
+3- Does Artificial Intelligence Make You Stupid? Cognitive Debt and a Three-Tier Framework for Sustainable Human–AI Collaboration
+
+https://globaljournals.org/scholarly-articles/does-artificial-intelligence-make-you-stupid-cognitive-debt-and-a-three-tier-framework-for-sustainable-human-ai-collaboration/#h-introduction
+
+https://globaljournals.org/GJCST_Volume26/cognitive-debt-and-sustainable-ai-collaboration.pdf?v=1785584274817
